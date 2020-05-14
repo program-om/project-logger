@@ -1,0 +1,4 @@
+# Format of file line (# are comment lines)
+# Date|Hours|Description
+# For example:
+8/25/2050|2.5|Hang out in the moon!
